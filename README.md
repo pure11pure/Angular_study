@@ -9,7 +9,7 @@
 
 
 ### ติดตั้งเพิ่มเติม
-```
+```bash
 #bootstrap 
 npm i bootstrap
 #bootstrap, bootstrap-icons
