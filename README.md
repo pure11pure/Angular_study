@@ -34,5 +34,5 @@ npm install json-server
 
 - material.angular.io
 ```
-[click](https://youtube.com/playlist?list=PLp50dWW_m40W6u4NxWCsQk1F8CmzBI6r0&si=H2q8JabC6njtTsyC)
+https://youtube.com/playlist?list=PLp50dWW_m40W6u4NxWCsQk1F8CmzBI6r0&si=H2q8JabC6njtTsyC
 ```
